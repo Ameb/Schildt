@@ -1,0 +1,7 @@
+Это файл TEXT.TXT
+Он не очень длинный,
+но на русском языке!
+Поймет ли его моя программа?
+FileInputStream don't understand russian!
+Конец.
+/java/Schildt/Ch13
